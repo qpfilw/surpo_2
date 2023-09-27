@@ -1,0 +1,30 @@
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\прога\лб 1\ConsoleApp1\oop-labs-2023-II-lab-1-qpfilw\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\user\surpo\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\user\surpo\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\user\surpo\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\user\surpo\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\surpo\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\user\surpo\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
