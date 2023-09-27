@@ -29,7 +29,7 @@ class Program
     static void Main(string[] args)
     {
         Person person = new Person("polina", "filiushina");
-        Job job = new Job("programmer", 100000, "ruble");
+        Job job = new Job("programmer", 2000000, "dollars");
         Console.Write(person.name + " " + person.surname + '\n');
         Console.Write(job.vacancy + " " + "and her salary" + " " + job.money + " " + job.currency);
     }
